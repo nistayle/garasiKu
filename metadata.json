@@ -1,0 +1,10 @@
+{
+  "name": "GarasiKu",
+  "description": "Smart city community parking powered by AI Exit Recommendations and Live Crowd Status for events and festivals.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
