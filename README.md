@@ -2,7 +2,50 @@
 <img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
 </div>
 
-# Run and deploy your AI Studio app
+# Created by AI Studio app
+
+# 🚗 GarasiKu
+
+Community-powered parking platform that helps users find hidden parking spaces and allows homeowners to monetize their unused garages.
+
+## Problem
+
+Finding parking in crowded areas like Malioboro is difficult.
+
+Meanwhile, many residents have unused parking spaces.
+
+## Solution
+
+GarasiKu connects drivers with local parking providers.
+
+## Features
+
+- Search nearby parking
+- Rent private garages
+- Event-based parking
+- Real-time availability
+- Revenue dashboard
+
+## Tech Stack
+
+- React
+- Firebase
+- Google Maps
+- Tailwind CSS
+
+## Screenshots
+
+![Home](assets/homepage.png)
+
+## Demo
+
+https://garasiku-xxxx.run.app
+
+## Future Development
+
+- AI parking recommendation
+- Dynamic pricing
+- Smart occupancy prediction
 
 This contains everything you need to run your app locally.
 
